@@ -1,4 +1,4 @@
-Cég neve:
-Választott téma:
-Vezető fejlesztő:
-Dizájner:
+Cég neve: 
+Választott téma: Retro Bistro
+Vezető fejlesztő: Hársasi Krisztián
+Dizájner: Soltész Bálint
